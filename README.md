@@ -12,10 +12,10 @@ Entregável #2 - Experimentar ferramentas de apoio ao desenvolvimento de softwar
 <p align="center"><img src="./assets/homeJava.png"></p><br/>
 
 **3** - Tela de Execução dos códigos em Java:
-<p align="center"><img src="./assets/fibonnaciJava.png"></p><br/>
+<p align="center"><img src="./assets/fibonacciJava.png"></p><br/>
 
 **4** - Tela de Execução dos códigos em JavaScript:
-<p align="center"><img src="./assets/fibonnaci.png"></p><br/>
+<p align="center"><img src="./assets/fibonacci.png"></p><br/>
 
 <h2>Deploy:</h2>
 
