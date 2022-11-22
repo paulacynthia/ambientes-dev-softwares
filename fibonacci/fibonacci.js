@@ -1,4 +1,4 @@
-function fibonnaci() {
+function fibonacci() {
   let number = document.getElementById("start");
   let res = document.getElementById("res");
 
@@ -7,7 +7,7 @@ function fibonnaci() {
 
   if (number.value.length === 0) {
     alert(
-      "Por favor, insira um número abaixo para conseguir ver os termos Fibonnaci:"
+      "Por favor, insira um número abaixo para conseguir ver os termos Fibonacci:"
     );
   } else if (number.value === "0") {
     alert("Por favor, insira um número diferente de zero.");
