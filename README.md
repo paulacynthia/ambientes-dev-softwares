@@ -19,3 +19,7 @@ $ npm install
 $ npm run test 
 ```
 <p><img src="./assets/pass_tests.PNG"></p><br/>
+
+<h4 align="center">
+   Challenge concluded! :heavy_check_mark:
+</h4>
