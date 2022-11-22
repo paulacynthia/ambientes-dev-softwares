@@ -1,5 +1,6 @@
-# Entregáveis - Ambientes e Desenvolvimento de Softwares
+# Entregável - #3
 Entregável #3 - Atividade Assíncrona Integrada
+<p>Exercício Express: Implementação de rotas utilizando NodeJS das 4 operações básicas.</p>
 
 <h2>Soma:</h2>
 <p align="center"><img src="./assets/soma.png"></p><br/>
