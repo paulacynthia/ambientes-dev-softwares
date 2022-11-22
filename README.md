@@ -1,4 +1,4 @@
-# Entregáveis - Ambientes e Desenvolvimento de Softwares
+# Entregável - #2
 Entregável #2 - Experimentar ferramentas de apoio ao desenvolvimento de software
 
 <p>Utilização dos algoritmos do entregável - #1 para o desenvolvimento de uma interface que execute ambas linguagens de programação</p>
