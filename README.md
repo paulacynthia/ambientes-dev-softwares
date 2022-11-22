@@ -13,3 +13,7 @@ Entregável #3 - Atividade Assíncrona Integrada
 
 <h2>Divisão:</h2>
 <p align="center"><img src="./assets/div.png"></p><br/>
+
+<h4 align="center">
+   Challenge concluded! :heavy_check_mark:
+</h4>
